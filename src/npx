@@ -1,0 +1,5 @@
+
+[4mSequelize CLI [Node: 22.13.1, CLI: 6.6.2, ORM: 6.37.5][24m
+
+New model was created at [94mC:\Users\keshav\developer\flights\src\models\airplane.js[39m .
+New migration was created at [94mC:\Users\keshav\developer\flights\src\migrations\20250209123340-create-airplane.js[39m .
